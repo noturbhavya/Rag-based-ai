@@ -1,0 +1,37 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Hey buddy, how was school?"
+    },
+    {
+        "start": 2.0,
+        "end": 3.0,
+        "text": " Everybody was mocking me."
+    },
+    {
+        "start": 3.0,
+        "end": 4.0,
+        "text": " Everybody was mocking you?"
+    },
+    {
+        "start": 4.0,
+        "end": 5.0,
+        "text": " Everybody was mocking you?"
+    },
+    {
+        "start": 5.0,
+        "end": 6.0,
+        "text": " Yes."
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "text": " Everybody was mocking you?"
+    },
+    {
+        "start": 7.0,
+        "end": 9.0,
+        "text": " Everybody was mocking you?"
+    }
+]
