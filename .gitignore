@@ -1,1 +1,5 @@
 videos/
+audios/
+unused/
+whisper/
+__pycache__/
