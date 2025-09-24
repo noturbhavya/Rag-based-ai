@@ -1,5 +1,6 @@
-videos/
 audios/
 unused/
-whisper/
 __pycache__/
+jsons/
+embiddings.joblib
+videos/
